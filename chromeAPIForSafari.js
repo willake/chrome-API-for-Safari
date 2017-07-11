@@ -1,5 +1,6 @@
 /**
  * Edited by Willake on 11.07.17.
+ * Created by kristian on 09.11.14.
  */
 var messagesJson;
 var isInit = false;
