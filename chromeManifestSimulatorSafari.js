@@ -1,5 +1,6 @@
 /**
  * Edited by Willake on 11.07.17.
+ * Created by kristian on 09.11.14.
  * ****************************************************************************
  * Since Safari have no option for different white list for different scripts, I
  * made a chrome manifest parser who use the addContentScriptFromURL to achieve the
